@@ -1,0 +1,4 @@
+# Auto Screen Subtitle — Python dependencies
+faster-whisper
+soundcard
+numpy

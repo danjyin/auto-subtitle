@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -m pip install mss easyocr deep-translator Pillow)",
+      "Bash(gh auth:*)"
+    ]
+  }
+}
