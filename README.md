@@ -59,3 +59,8 @@ Chinese (Simplified/Traditional), Japanese, Korean, French, German, Spanish, Por
 - Language selection dialog (source + target + scan region)
 - Transparent always-on-top subtitle bar with original + translated lines
 - Greedy decoder for faster OCR; auto-normalisation and silence filtering removed (audio approach replaced with OCR)
+
+## Problem
+- Not fast catching enough to show all the sma time
+- Overlap between words in different area
+- Probably works better in preload videos however that does not suit my need then
